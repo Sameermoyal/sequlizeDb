@@ -2,7 +2,7 @@ export const dbConfig={
         HOST:"localhost",
         USER:'root',
         PASSWORD:"sameer",
-        DB:"sequlizedb",
+        DB:"sequelcrud",
         dialect:"mysql",
         pool:{
             min:0,
